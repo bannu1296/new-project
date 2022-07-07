@@ -1,0 +1,7 @@
+class sai{
+	public static void main(string[] args){
+		system.out.println("This is first programme");
+		system.out.println("This is second programme");
+}
+}
+
